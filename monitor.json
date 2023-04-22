@@ -1,11 +1,11 @@
 [
   {
- "date": "21/4/2023",
-    "pret_benzina": "6.78",
+ "date": "22/4/2023",
+    "pret_benzina": "6.69",
 "sursa_benzina":"PETROM - Benzina Standard 95 / Benzina 95",
-    "pret_motorina": "6.99",
+    "pret_motorina": "6.9",
 "sursa_motorina":"OMV - OMV Diesel",
-    "pret_gpl": "3.83",
+    "pret_gpl": "3.79",
 "sursa_gpl":"LUKOIL România S.R.L. - GPL auto"
   }
 ]
