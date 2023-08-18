@@ -1,11 +1,11 @@
 [
   {
- "date": "17/8/2023",
-    "pret_benzina": "7.21",
+ "date": "18/8/2023",
+    "pret_benzina": "7.23",
 "sursa_benzina":"PETROM - Benzina Standard 95 / Benzina 95",
-    "pret_motorina": "7.48",
+    "pret_motorina": "7.5",
 "sursa_motorina":"OMV - OMV Diesel",
-    "pret_gpl": "3.26",
+    "pret_gpl": "3.25",
 "sursa_gpl":"LUKOIL România S.R.L. - GPL auto"
   }
 ]
