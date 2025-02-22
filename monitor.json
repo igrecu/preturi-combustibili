@@ -1,11 +1,11 @@
 [
   {
- "date": "21/2/2025",
+ "date": "22/2/2025",
     "pret_benzina": "7.57",
 "sursa_benzina":"PETROM - Benzina Standard 95 / Benzina 95",
-    "pret_motorina": "7.87",
+    "pret_motorina": "7.91",
 "sursa_motorina":"OMV - OMV Diesel",
-    "pret_gpl": "3.57",
+    "pret_gpl": "3.61",
 "sursa_gpl":"LUKOIL România S.R.L. - GPL auto"
   }
 ]
