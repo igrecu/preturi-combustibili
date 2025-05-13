@@ -1,11 +1,11 @@
 [
   {
- "date": "12/5/2025",
-    "pret_benzina": "6.88",
+ "date": "13/5/2025",
+    "pret_benzina": "6.92",
 "sursa_benzina":"PETROM - Benzina Standard 95 / Benzina 95",
-    "pret_motorina": "7.06",
+    "pret_motorina": "7.1",
 "sursa_motorina":"OMV - OMV Diesel",
-    "pret_gpl": "3.59",
+    "pret_gpl": "3.57",
 "sursa_gpl":"LUKOIL România S.R.L. - GPL auto"
   }
 ]
