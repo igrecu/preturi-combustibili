@@ -1,11 +1,11 @@
 [
   {
- "date": "24/6/2026",
-    "pret_benzina": "8.52",
+ "date": "25/6/2026",
+    "pret_benzina": "8.62",
 "sursa_benzina":"PETROM - Benzina Standard 95 / Benzina 95",
-    "pret_motorina": "9.08",
+    "pret_motorina": "9.18",
 "sursa_motorina":"PETROM - Motorina Standard",
-    "pret_gpl": "4.51",
+    "pret_gpl": "4.53",
 "sursa_gpl":"MOL România Petroleum Products - GPL"
   }
 ]
