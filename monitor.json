@@ -1,10 +1,10 @@
 [
   {
- "date": "8/8/2026",
+ "date": "9/8/2026",
     "pret_benzina": "9.36",
 "sursa_benzina":"PETROM - Benzina Standard 95 / Benzina 95",
-    "pret_motorina": "10.53",
-"sursa_motorina":"OMV - OMV Diesel",
+    "pret_motorina": "10.47",
+"sursa_motorina":"PETROM - Motorina Standard",
     "pret_gpl": "4.6",
 "sursa_gpl":"MOL România Petroleum Products - GPL"
   }
